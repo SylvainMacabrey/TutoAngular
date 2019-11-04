@@ -10,7 +10,7 @@ export class UserService {
             lastname: 'Macabrey',
             email: 'sylvain.macabrey@gmail.com',
             drinkPreference: 'Coca',
-            hobbies: ['sexe', 'jeux vidéo']
+            hobbies: ['sport', 'jeux vidéo']
         }
     ];
     userSubject = new Subject<User[]>();
